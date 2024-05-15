@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+    padding: 40px;
+  }
+  h1
+  {
+    color: white;
+  }
+  button {
+    margin: 5px;
+    padding: 10px 20px #f8f3f8;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: white;
+    margin-bottom: 20px;
+  }
+#score
+  {
+    margin: 20px;
+    color: white;
+
+  }
+ #result
+ {
+    margin-bottom: 30px;
+    color: aliceblue;
+ }
+ #user-score
+ {
+    color: rgb(168, 168, 185);
+    padding: 10px;
+ }
+ #computer-score
+ {
+    color: rgb(168, 168, 185);
+    padding: 10px;
+ }
