@@ -7,6 +7,8 @@
 // If any non-numeric characters are present (except commas), treat those values as zero.
 // If the input string is empty, return zero.
 
+
+
 function getSum(input)
 {
     if(!input) return 0

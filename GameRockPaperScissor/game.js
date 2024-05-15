@@ -33,10 +33,10 @@ let computerScore = 0;
 function play(userChoice) {
   const computerChoice = displayComputerChoice();
 
-  const result = getResult(userChoice, computerChoice);
+const result = getResult(userChoice, computerChoice);
 
 
-  document.getElementById('result').innerText = result;
+document.getElementById('result').innerText = result;
 
 
   if (result === 'You Win!') {
